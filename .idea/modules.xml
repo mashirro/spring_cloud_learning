@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookstore/bookstore.iml" filepath="$PROJECT_DIR$/bookstore/bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_service/eureka_service.iml" filepath="$PROJECT_DIR$/eureka_service/eureka_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading/reading.iml" filepath="$PROJECT_DIR$/reading/reading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_learning.iml" filepath="$PROJECT_DIR$/spring_cloud_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
